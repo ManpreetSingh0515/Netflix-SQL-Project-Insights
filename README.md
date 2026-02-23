@@ -25,6 +25,7 @@ Identify interesting patterns such as shortest movies, missing data, and keyword
 10. Directors Starting with "A"
 11. Content Growth by Year
 12. Movies Released Before 2000
+    
 📈 Insights Summary
 Netflix has more movies than TV shows overall.
 United States, India, and United Kingdom lead in content production.
